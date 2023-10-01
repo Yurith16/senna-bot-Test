@@ -15,7 +15,7 @@ let handler = async (m, { conn, text, args, isPrems, isOwner, usedPrefix, comman
   m.react('🎧') 
   
   let play = `
-	≡ *FG MUSIC*
+	≡ *𝐊𝐚𝐫-𝐀𝐧𝐠𝐭 MUSIC*
 ┌──────────────
 ▢ 📌 *${mssg.title}:* ${vid.title}
 ▢ 📆 *${mssg.aploud}:* ${vid.ago}
