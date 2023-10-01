@@ -42,7 +42,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
   let speed = neww - old
   
 let infobt = `
-≡ *INFO BOT*
+≡ *INfORMACION DEL BOT*
   
 *ESTADO*
 ▢ ${mssg.gp}s: *${groupsIn.length}*
@@ -50,19 +50,17 @@ let infobt = `
 ▢ Total Chats: *${chats.length}*
 
 *≡ OWNER*
-  *FG98*
+  *𝐊𝐚𝐫@𝐀𝐧𝐠𝐭*
 ▢ Instagram :
   • ${fgig}
-▢ Telegram : 
-  • t.me/fgsupp_bot (FG) 
-  • t.me/fg98ff (canal)
-  • t.me/fgawgp (grupo)
+▢ WhatsApp: 
+  • https://chat.whatsapp.com/JeKUpOxymP4F6faK3B2Jqb
 ▢ YouTube : 
-  • https://youtube.com/fg98f
+  • https://youtube.com/
   
- *≡ HELPERS*
-  *ANDREA*
-▢ WhatsApp : wa.me/573125484672`
+ *≡ Ayudas*
+  *HERNANDEZ*
+▢ WhatsApp : wa.me/50487430323`
 
 /*conn.sendButton(m.chat, infobt, mssg.ig, null, [
   ['ꨄ︎ Apoyar', `${usedPrefix}donate`],
