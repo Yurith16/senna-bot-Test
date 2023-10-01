@@ -8,28 +8,31 @@ m.reply(`
 ▢ Grupo *1*
 ${bgp}
 
+▢ Gru▢ Grupo *1*
+${bgp}
+
 ▢ Grupo *2*
 ${bgp2}
 
-▢ Grupo *NSFW* 🔞
+▢ Grupo *multimedia* 🔞
 ${bgp3}
 
-▢ 𝐌𝐘 - 𝐌𝐚𝐲𝐥𝐮𝐱 | ᴮᴼᵀ⚡
-https://chat.whatsapp.com/CTILZXSriIE3M40anVyPT4
+▢ 𝐌𝐘 - 𝐊𝐚𝐫| ᴮᴼᵀ⚡
+Wa.me/+50494825831
 
-▢ 📲💻ANDROID WORLD🎬🎮
-https://chat.whatsapp.com/Ly4I2LObSvW8VgOnJjofgA
+▢ 📲💻 *Descarga de Multimedias* 🎬🎮
+https://chat.whatsapp.com/JeKUpOxymP4F6faK3B2Jqb
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
-▢ Todos los Grupos
- https://instabio.cc/fg98ff
+▢ Grupo
+ https://chat.whatsapp.com/JeKUpOxymP4F6faK3B2Jqb
 
 ▢ *Telegram*
-• https://t.me/fgawgp
+• https://t.me/
  ▢ *PayPal*
 • https://paypal.me/fg98f
 ▢ *YouTube*
-• https://www.youtube.com/fg98f`)
+• https://www.youtube.com/`)
 
 }
 handler.help = ['support']
